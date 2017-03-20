@@ -1,4 +1,10 @@
 # database-output
+SQL database design for a school database consisting of the teacher, student, class, department and level tables with relationships.
+
+The teacher table would contain teacher data, likewise the student table would contain student data. The class and department tables would contain all the classes and departments in the school respectively, and the level table would contain the various teacher levels and their salaries.
+
+Appropriate relaionships are shown.
+
 Queries that can be run:
 1. INSERT INTO studentTable VALUES (724, "Mary-Theresa", "Nwankwo", "F", 2002, JSS3, 03-09-1991, 1):
 This would add the new data to the studentTable
